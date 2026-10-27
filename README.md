@@ -1,20 +1,18 @@
-# Bem-vindo ao projeto
-
-## 💻 Desenvolvimento
-
-Para rodar o projeto localmente, você precisará do Node.js e npm instalados.
-
-```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
+Welcome to your Lovable project
+This project was built with Lovable.
+Build with Lovable
+Open your project in the Lovable editor and keep building.
+- Ship faster: describe what you want to build and Lovable handles the code.
+- Stay in sync: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
+- Full ownership: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+Development
+Prefer working locally? You need Node.js and npm — install with nvm.
+git clone <this-repository-url>cd <repository-name>
 npm i
 npm run dev
-
-🛠️ Desenvolvido com
-TanStack Start
-
-TypeScript
-
-React
-
-Tailwind CSS
+Built with
+- TanStack Start
+- TypeScript
+- React
+- Tailwind CSS
+arrume esse arquivo readme
